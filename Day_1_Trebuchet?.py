@@ -89,9 +89,6 @@ def part_two(content_2):
     r += int(fst + lst)
   print(r)
   
-  
-  
- 
 print(part_one(content))
 print(part_two(content_2))
 
